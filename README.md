@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ansh1-43
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/his/him
