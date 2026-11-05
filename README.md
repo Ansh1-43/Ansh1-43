@@ -5,9 +5,8 @@
 
 ### 🚀 About Me  
 - 🔭 Currently: **My Learning Era!!**  
-- 🌱 Exploring: **ML Tech | Development | Tensorflow | PyTorch | FastAPI | Streamlit | React | Java**  
-- 👀 Passionate about: **AI/ML/DL Learning , Computer Vision , Model Explainability**  
-- 💡 Love building: **End-to-End ML Pipelines & Full-Stack Deployable Systems**  
+- 🌱 Exploring: **ML Tech | Development | Tensorflow | PyTorch | FastAPI | Streamlit | React**  
+- 👀 Passionate about: **AI/ML/DL Learning , Computer Vision , Model Explainability**
 - 💞️ Open to: **Hackathons | Research Collabs | Real-world Impact Projects**  
 - ⚡ Fun fact: I turn problems into **production-ready solutions** 🚀  
 
